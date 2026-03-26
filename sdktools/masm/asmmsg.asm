@@ -351,4 +351,4 @@ FAR_MSG segment
 	db	"Run with -help for usage",0
 FAR_MSG ends
 
-	end
+	endcpu
